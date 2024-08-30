@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Osvaldo from Florida!
+# 👋 Hi, I'm Osvaldo!
 
 ### About Me
 - 🎂 **Age:** 20 years old

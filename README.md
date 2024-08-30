@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Osvaldo, I am 20 years of age. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... How to becokme an electrical engineer at Valencia college. My goal is to finish up my AS, and transfer to UCF and finish by B.S in Electrical Engineering there. 
-- 💞️ I’m looking to collaborate on ... My main goal is to become better with arduinos. More importantly gain more knowledge on the coding side. I like working with electronics. I have created various projects in my spare time. 
-- 📫 How to reach me ... You can reach me through my email perezosvaldo0234@gmail.com or instagram @ osvaldo.03
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Besides messing around with arduinos. I also like to work on/modify cars in my spare time. I actually supercharged my car back in the fall of 2022. 
+# 👋 Hi, I'm Osvaldo from Florida!
 
-<!---
-osvaldo-03/osvaldo-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+- 🎂 **Age:** 20 years old
+- 🌱 **Currently Learning:** I'm pursuing an Associate of Science (AS) in Electrical Engineering at Valencia College. My goal is to transfer to the University of Central Florida (UCF) to complete my Bachelor of Science (B.S.) in Electrical Engineering.
+- 💻 **Interests:** I have a deep passion for working with electronics, particularly Arduinos. I’ve created various projects in my spare time and am eager to expand my knowledge, especially in coding and hardware integration.
+- 🚗 **Fun Fact:** When I'm not tinkering with Arduinos, I enjoy modifying cars. In the fall of 2022, I supercharged my car and have also worked on other automotive projects such as rebuilding engines, restoring bodywork, and redoing wiring. Besides cars, I have two dogs—Coco, a Lab mix, and Milo, a Chihuahua mix.
+
+### Collaboration
+- 🤝 **Looking to Collaborate On:** I’m excited to collaborate on Arduino and other electronics-based projects, with a particular focus on enhancing my coding skills. I’m also open to hands-on collaborations in various fields, as long as they involve practical, real-world applications.
+### Contact Me
+- 📫 **Email:** [perezosvaldo0234@gmail.com](mailto:perezosvaldo0234@gmail.com)
+- 📸 **Instagram:** [@osvaldo.03](https://www.instagram.com/osvaldo.03/)
